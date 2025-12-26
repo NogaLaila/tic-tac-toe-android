@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Cell color -->
+    <solid android:color="#483AA0" />
+
+    <!-- Rounded corners -->
+    <corners android:radius="70dp" />
+
+    <!-- Optional glow padding -->
+    <padding
+        android:left="6dp"
+        android:top="6dp"
+        android:right="6dp"
+        android:bottom="6dp"/>
+</shape>
